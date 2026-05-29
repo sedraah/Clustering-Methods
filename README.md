@@ -73,6 +73,6 @@ KMeans edges out hierarchical clustering by a small margin in silhouette score.
 
 ### Cluster Interpretation (Hierarchical)
 
-- **Cluster 0** (49 wines): Highest malic acid (3.39) and color intensity (7.33), very low flavanoids (0.80) and proline (622) — likely a bold, high-acid wine type.
-- **Cluster 1** (60 wines): Strong flavanoids (2.98) and by far the highest proline (1113) — a full-bodied, flavanoid-rich group.
-- **Cluster 2** (69 wines): Lowest averages across most features — color intensity (3.07), proline (516), malic acid (1.88) — likely a lighter-style wine group.
+- **Cluster 0** (49 wines): Highest malic acid (3.39) and color intensity (7.33), very low flavanoids (0.80) and proline (622), likely a bold, high-acid wine type.
+- **Cluster 1** (60 wines): Strong flavanoids (2.98) and by far the highest proline (1113), a full-bodied, flavanoid-rich group.
+- **Cluster 2** (69 wines): Lowest averages across most features — color intensity (3.07), proline (516), malic acid (1.88), likely a lighter-style wine group.
